@@ -1,0 +1,56 @@
+Method 1: taSmile
+System.out.println("I don't know why it wouldn't compile.\nMy TA just smiled.\n");
+
+Method 2: addCompile
+System.out.println("I added the println to make things compile,");
+
+Method 3: checkNotes
+System.out.println("I read the notes to ease my brain,");
+
+Method 4: slides
+System.out.println("I went through the slides to check my notes");
+
+____________________________________________________________________
+
+
+In Between Lines:
+
+1. System.out.println("I once wrote a program that wouldn't compile");
+
+2. System.out.println("I searched my brain for all that I knowed");
+   System.out.println("System.out.println(\"I <3 the code\");");
+
+3. System.out.println("I read all the notes I wrote down in class,");
+   System.out.println("Looking for something that might help me pass.");
+
+4. System.out.println("The info I needed, oh where would it hide?");
+   System.out.println("One of my classmates said \"look at the slides!\"");
+
+5. System.out.println("I fixed all my syntax, the ; and \\");
+   System.out.println("My program, it ran, but stopped with a crash.");
+   System.out.println("I typed everything like it said in the slides");
+
+6. System.out.println("With effort and patience I wrote perfect source,\nIt worked, of course!");
+
+ORDER:
+
+1
+taSmile
+2
+addCompile
+taSmile
+3
+checkNotes
+addCompile
+taSmile
+4
+slides
+checkNotes
+addCompile
+taSmile
+5
+slides
+checkNotes
+addCompile
+taSmile
+6
