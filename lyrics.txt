@@ -1,43 +1,61 @@
 * - repetitive lines
 
-I once wrote a program that wouldn't compile
+ - I once wrote a program that wouldn't compile
 
 *
 I don't know why it wouldn't compile.
 My TA just smiled.
 
-I searched my brain for all that I knowed,
-System.out.println("I <3 the code");
+ - I searched my brain for all that I knowed,
+ - System.out.println("I <3 the code");
+
+*
 I added the println to make things compile,
 
 *
 I don't know why it wouldn't compile.
 My TA just smiled.
 
-I read all the notes I wrote down in class,
-Looking for something that might help me pass.
+ - I read all the notes I wrote down in class,
+ - Looking for something that might help me pass.
+
+*
 I read the notes to ease my brain,
+
+*
 I added the println to make things compile,
 
 *
 I don't know why it wouldn't compile.
 My TA just smiled.
 
-The info I needed, oh where would it hide?
-One of my classmates said "look at the slides!"
+ - The info I needed, oh where would it hide?
+ - One of my classmates said "look at the slides!"
+
+*
 I went through the slides to check my notes
+
+*
 I read the notes to ease my brain,
+
+*
 I added the println to make things compile,
 
 *
 I don't know why it wouldn't compile.
 My TA just smiled.
 
-I fixed all my syntax, the ; and \
-My program, it ran, but stopped with a crash.
-I typed everything like it said in the slides
+ - I fixed all my syntax, the ; and \
+ - My program, it ran, but stopped with a crash.
+ - I typed everything like it said in the slides
+
+*
 I went through the slides to check my notes
+
+*
 I read the notes to ease my brain,
+
+*
 I added the println to make things compile,
 
 *
@@ -45,5 +63,5 @@ I don't know why it wouldn't compile.
 My TA just smiled.
 
 
-With effort and patience I wrote perfect source,
-It worked, of course!
+ - With effort and patience I wrote perfect source,
+ - It worked, of course!
