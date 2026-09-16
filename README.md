@@ -1,7 +1,7 @@
 # The-Five-Pains-of-Coding
 Unit 1 - Project 1 AP CSA
 
-#Notes
+# Notes
 lyrics.txt is just a version of the lyrics with annotations to note repetitive
 and non-repetitive lines
 
